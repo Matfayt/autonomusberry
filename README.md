@@ -8,8 +8,7 @@ Special thanks to @maudinator for the composition and to @merov13 for conceiving
 ------------------------
 
 ### Requirements
-1. Raspbian on a Raspberry Pi 
-   -mine is a 2 model B V1.1
+1. Raspbian on a Raspberry Pi (mine is a 2 model B V1.1)
 2. puredata (0.51.4-1)
 3. python3 (python2 might work)
 4. Librairies : pythonosc, Adafruit, gpiozero
@@ -29,7 +28,7 @@ The osc_server_concurrent.py allows you to receive OSC messages and display them
 
 All the code in the script is inspired by the examples scripts from pythonosc and gpiozero libraries. Thanks to them !
 
-A global_patch allow you to communicate with python scripts. Thanks to Andy Farnell for the content.
+A global_patch allows you to communicate with python scripts. Thanks to Andy Farnell for the content.
 
 Enjoy and contact me if you need extra info ;)
 
