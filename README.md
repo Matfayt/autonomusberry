@@ -13,7 +13,7 @@ The rotary.py is a script controlling GPIO input (buttons, etc...) and sends OSC
 The osc_server_concurrent.py allows you to receive OSC messages and display them on an oled screen pluged into the GPIO. Change de name of the message in the filter_handler and whatever you need to display
 
 --------------------
-![Global Working Principle](assets/images/working_principle)
+![Global Working Principle](assets/images/working_principle.png)
 
 All the code in the script is inspired by the examples scripts from pythonosc and gpiozero libraries. Thanks to them
 
