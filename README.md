@@ -14,6 +14,7 @@ The osc_server_concurrent.py allows you to receive OSC messages and display them
 
 --------------------
 ![Global Working Principle](assets/images/working_principle.png)
+--------------------
 
 All the code in the script is inspired by the examples scripts from pythonosc and gpiozero libraries. Thanks to them
 
