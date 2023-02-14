@@ -13,9 +13,9 @@ Special thanks to @maudinator for the composition and to @merov13 for conceiving
 2. puredata (0.51.4-1)
 3. python3 (python2 might work)
    -Librairies :
-    -pythonosc
-    -Adafruit
-    -gpiozero
+      -pythonosc
+      -Adafruit
+      -gpiozero
 4. A rotary encoder
 5. An oled screen
 
