@@ -2,7 +2,7 @@
 ## A folder containing several codes allowing you to interact with puredata from GPIO using python and OSC on Raspberry
 
 
-The project is to use a Raspberry generating Farnell pd patches as an input for a modular we built and an arduino digital sequencer. The Modularduino repository by @github/SuhtrA contains all the code for the arduino sequencer. Check it out ! 
+The project is to use a Raspberry generating Farnell pd patches as an input for a modular we built and an arduino digital sequencer. The Modularduino repository by @SuhtrA contains all the code for the arduino sequencer. Check it out ! 
 Special thanks to @maudinator for the composition and to @merov13 for conceiving and creating de analog modular.
 
 ------------------------
