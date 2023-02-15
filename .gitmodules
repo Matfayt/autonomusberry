@@ -1,0 +1,3 @@
+[submodule "ARCS_ArduinoSequencer"]
+	path = ARCS_ArduinoSequencer
+	url = https://github.com/SuhtrA/ARCS_ArduinoSequencer
