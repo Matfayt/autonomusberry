@@ -5,7 +5,7 @@
 The project is to use a Raspberry generating Farnell pd patches as an input for a modular we built and an arduino digital sequencer. The https://github.com/SuhtrA/ARCS_ArduinoSequencer.git repository by @SuhtrA contains all the code for the arduino sequencer. Check it out ! 
 Special thanks to @maudinator for the composition and to @merov13 for conceiving and creating de analog modular.
 
-![Raspi](assets/images/raspi.jpg)
+![Raspi](assets/images/raspi.png)
 
 ------------------------
 
